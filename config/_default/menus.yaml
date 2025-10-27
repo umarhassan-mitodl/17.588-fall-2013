@@ -1,0 +1,30 @@
+leftnav:
+- identifier: 08cf130d-bacc-b9d1-ff87-45e8f22e4c6e
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1c678749-04b8-db67-40af-1956117c19bb
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: a33234af-ec33-61bd-d100-99ffe41525d0
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 31f8d3e7-3704-b978-f717-f3971f35e606
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 40
+- identifier: c3b798ec-5654-f3ba-4fa2-104d8981e3ad
+  name: Recommended Readings
+  pageRef: /pages/readings/recommended-readings
+  parent: 31f8d3e7-3704-b978-f717-f3971f35e606
+  weight: 50
+- identifier: 08113404-3960-a473-8e30-7595d3a28d5f
+  name: Questions for Class Discussion
+  pageRef: /pages/questions-for-class-discussion
+  weight: 60
+- identifier: d79b4108-0133-905b-8d83-1ce3e89f95ae
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
